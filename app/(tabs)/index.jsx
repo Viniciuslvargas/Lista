@@ -114,6 +114,7 @@ const styles = StyleSheet.create({
   deleteButtonText: {
     color: '#fff',
     fontWeight: 'bold',
+    color: '#ffff'
   },
 });
 
